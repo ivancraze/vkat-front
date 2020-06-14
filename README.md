@@ -1,1 +1,1 @@
-# vkat-front
+# Wordpress Webinar Project
