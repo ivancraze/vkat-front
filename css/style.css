@@ -352,44 +352,32 @@ h2.title {
 
 footer {
     min-height: 166px;
-    background-color: #1a1a1a;  
-}
-
-.footer_wrapper {
+    background-color: #1a1a1a;
     padding: 61px 0 69px 0;
-    display: block;
+}
+
+.links {
     margin: 0 auto;
-}
-
-.footer_wrapper .footer_links {
-    display: flex;
-    justify-content: center;
-}
-
-.footer_wrapper .footer_links a {
+    width: 377px;
+    text-align: center;
     color: #888888;
     font-family: Roboto;
     font-size: 15px;
     font-weight: 300;
     line-height: 21px;
-    text-decoration: underline;
-    text-align: center;
 }
 
-.footer_wrapper .footer_links span {
-    padding: 0 3px 0 3px;
+footer a {
     color: #888888;
     font-family: Roboto;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 21px;
     text-decoration: none;
 }
 
-.footer_wrapper .footer_text {
-    color: #888888;
-    font-family: Roboto;
-    font-size: 15px;
-    font-weight: 300;
-    line-height: 21px;
-    text-align: center;
+.underlined {
+    text-decoration: underline;
 }
 
 /* Footer END */
